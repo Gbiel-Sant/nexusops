@@ -49,7 +49,7 @@ A Locaweb precisava entender **por que o volume de incidentes de TI crescia** e 
 | Análise / EDA | Python, pandas | ✅ concluído |
 | Visualização | matplotlib, seaborn | ✅ concluído |
 | Ambiente | Jupyter Notebook | ✅ concluído |
-| BI / Dashboard | (em definição) | 🔄 iniciado |
+| BI / Dashboard | Power BI | 🔄 iniciado |
 | ML / AIOps | (planejado) | ⏳ Sprint 3–4 |
 | Deploy | Azure Container Instances, FastAPI | ⏳ Sprint 3–4 |
 
